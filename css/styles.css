@@ -1,5 +1,9 @@
-body{
+.body1{
   background-color: #9ED2C6;
+}
+.body2
+{
+  background-color: #FDEEDC;
 }
 hr{
 
@@ -27,4 +31,7 @@ h2
 /*class selector :- only selected class(pic)will be changed*/
 .pig{
   background-color: red;
+}
+.Friend:hover{
+  background-color: gold;
 }
